@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# **Always learning new things** </br>
+_java_ *__**python**__* *nodejs* **javascript** </br>
+_to be continued..._

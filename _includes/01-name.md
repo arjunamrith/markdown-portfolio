@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Amrithnath Vijayakumar
+## R&D Engineer
+### _[Tydy](https://tydy.com)_

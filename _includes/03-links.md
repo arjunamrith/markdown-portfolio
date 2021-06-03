@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[![GitHub Mark](https://gitlab.existsolutions.com/foss/web-annotation-protocol/raw/6c7014099062dcedcd4a837b60f197ee529b1a8f/resources/images/GitHub-Mark/PNG/GitHub-Mark-32px.png)](https://github.com/arjunamrith)
